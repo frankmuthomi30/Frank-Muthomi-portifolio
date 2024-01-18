@@ -19,7 +19,7 @@ const Footer = () => {
     >
       {/* Social Links */}
       <div className="flex justify-center items-center mb-6 space-x-4">
-        <a href="https://wa.me/0797887378" target="_blank" rel="noopener noreferrer">
+        <a href="https://wa.me/+254797887378" target="_blank" rel="noopener noreferrer">
           <FaWhatsapp className="text-2xl hover:text-green-500" />
         </a>
         <a href="mailto:frankmuthomi30@gmail.com" target="_blank" rel="noopener noreferrer">
